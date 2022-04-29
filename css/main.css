@@ -2026,7 +2026,7 @@ textarea.form-control {
       background-color: #888; }
     .progress-container .progress .progress-value {
       position: absolute;
-      top: 2px;
+      bottom: 20%;
       right: 0;
       color: #888;
       font-size: 0.8571em; }
